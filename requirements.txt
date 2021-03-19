@@ -1,7 +1,7 @@
-plotly  # plotting
-pandas  # data processing
-xlrd  # engine to read .xls files
-openpyxl  # engine to read .xlsx files
-nbformat  # notebook file format, needed to use fig.show() in jupyter
-kaleido # for generating images?
-notebook  # to run the notebook
+plotly==4.14.3  # plotting
+pandas==1.2.3  # data processing
+xlrd==2.0.1  # engine to read .xls files
+openpyxl==3.0.7   # engine to read .xlsx files
+nbformat==5.1.2  # notebook file format, needed to use fig.show() in jupyter
+kaleido==0.2.1 # for generating images?
+notebook==6.2.0  # to run the Jupyter notebook
