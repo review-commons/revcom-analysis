@@ -15,7 +15,7 @@ Launch the notebook
 
     jupyter notebook
 
-Open the `analysis.ipynb` file and start running the notebook.
+Open the `code/analysis.ipynb` file and start running the notebook.
 
 # Data
 
