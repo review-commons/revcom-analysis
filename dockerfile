@@ -9,6 +9,5 @@ RUN pip install -U --no-cache-dir \
     plotly==4.14.3 \
     xlrd==2.0.1
 
-COPY . /app
-WORKDIR /app/code
+WORKDIR /code
 CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
