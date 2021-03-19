@@ -15,6 +15,12 @@ Launch the notebook
 
     jupyter notebook
 
+Open the `analysis.ipynb` file and start running the notebook.
+
+# Data
+
+The data used for the analysis are availale in `data/` in an anonymized form.
+
 # Results
 
-The figures resulting from the analysis are available in the [`img/`](https://github.com/review-commons/revcom-analysis/tree/master/img) directory.
+The figures resulting from the analysis are available in the [`results/`](https://github.com/review-commons/revcom-analysis/tree/master/results) directory.
