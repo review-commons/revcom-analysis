@@ -6,7 +6,7 @@ This repository provides the data and code to generate the analysis of the _Revi
 Before running the notebook, setup your python virtual environment:
 
 ````
-    python -m venv .venv
+    python3 -m venv .venv
     source .venv/bin/activate
     pip install -r requirements.txt
 ````
