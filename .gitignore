@@ -1,6 +1,6 @@
 ### revcom-analysis
 # private data
-data/
+data_non_anonym/
 
 # Mac
 .DS_Store
