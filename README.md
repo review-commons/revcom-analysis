@@ -11,6 +11,10 @@ Before running the notebook, setup your python virtual environment:
     pip install -r requirements.txt
 ````
 
+Launch the notebook
+
+    jupyter notebook
+
 # Results
 
 The figures resulting from the analysis are available in the [`img/`](https://github.com/review-commons/revcom-analysis/tree/master/img) directory.

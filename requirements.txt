@@ -4,3 +4,4 @@ xlrd  # engine to read .xls files
 openpyxl  # engine to read .xlsx files
 nbformat  # notebook file format, needed to use fig.show() in jupyter
 kaleido # for generating images?
+notebook  # to run the notebook
