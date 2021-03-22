@@ -40,6 +40,8 @@ To run the notebook from the container:
 
 Visit the `http://127.0.0.1:8888/?token=...` link.
 
+*Remember* to set `DATA_DIR = "/data"` and `IMG_DIR = "/results"` when running from within container!
+
 The notebook can be modified and changes saved.
 
 To shutdown the notebook, type ctrl-C and confirm with 'y'.
