@@ -30,6 +30,7 @@ The figures resulting from the analysis are available in the [`results/`](https:
 Clone this repository:
 
     git clone https://github.com/review-commons/revcom-analysis.git
+    cd revcom-analysis
 
 Install Docker (https://docs.docker.com/) and build the docker container:
 
